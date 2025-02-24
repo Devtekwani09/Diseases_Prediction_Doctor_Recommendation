@@ -1,0 +1,108 @@
+Disease Name,Related Symptoms,Specialist Type
+Hypertension,"Headaches, blurred vision, chest pain",Cardiology
+Coronary Artery Disease,"Chest pain, shortness of breath, fatigue",Cardiology
+Arrhythmia,"Irregular heartbeat, dizziness, fainting",Cardiology
+Heart Failure,"Swelling in legs, rapid weight gain, fatigue",Cardiology
+Myocarditis,"Chest pain, fever, shortness of breath",Cardiology
+Migraine,"Throbbing headache, nausea, light sensitivity",Neurology
+Epilepsy,"Seizures, loss of consciousness, confusion",Neurology
+Parkinson? Disease,"Tremors, stiffness, slow movement",Neurology
+Multiple Sclerosis,"Numbness, balance issues, vision problems",Neurology
+Alzheimer? Disease,"Memory loss, confusion, mood swings",Neurology
+Eczema,"Itchy skin, redness, dry patches",Dermatology
+Psoriasis,"Thick red patches, silvery scales, itching",Dermatology
+Acne,"Pimples, blackheads, oily skin",Dermatology
+Melanoma,"Irregular moles, skin lesions, itching",Dermatology
+Rosacea,"Facial redness, swollen bumps, eye irritation",Dermatology
+Diabetes,"Frequent urination, thirst, fatigue",Endocrinology
+Hypothyroidism,"Weight gain, fatigue, cold intolerance",Endocrinology
+Hyperthyroidism,"Weight loss, rapid heartbeat, sweating",Endocrinology
+Cushing? Syndrome,"Weight gain, purple stretch marks, fatigue",Endocrinology
+Addison? Disease,"Fatigue, darkening skin, dizziness",Endocrinology
+GERD,"Heartburn, regurgitation, chest pain",Gastroenterology
+Irritable Bowel Syndrome (IBS),"Abdominal pain, bloating, diarrhea/constipation",Gastroenterology
+Crohn? Disease,"Diarrhea, weight loss, abdominal pain",Gastroenterology
+Ulcerative Colitis,"Bloody diarrhea, cramps, urgency to defecate",Gastroenterology
+Hepatitis,"Jaundice, fatigue, nausea",Gastroenterology
+Asthma,"Wheezing, shortness of breath, coughing",Pulmonology
+COPD,"Chronic cough, mucus production, fatigue",Pulmonology
+Pneumonia,"Fever, cough with phlegm, chest pain",Pulmonology
+Tuberculosis,"Persistent cough, weight loss, night sweats",Pulmonology
+Pulmonary Fibrosis,"Shortness of breath, dry cough, fatigue",Pulmonology
+Rheumatoid Arthritis,"Joint pain, swelling, morning stiffness",Rheumatology
+Lupus,"Fatigue, joint pain, butterfly rash",Rheumatology
+Gout,"Sudden joint pain (big toe), redness, swelling",Rheumatology
+Osteoarthritis,"Joint stiffness, pain worsens with activity",Rheumatology
+Fibromyalgia,"Widespread pain, fatigue, sleep issues",Rheumatology
+Anemia,"Fatigue, pale skin, shortness of breath",Hematology
+Leukemia,"Frequent infections, fatigue, weight loss",Hematology
+Hemophilia,"Prolonged bleeding, bruising, joint pain",Hematology
+Sickle Cell Anemia,"Episodic pain, fatigue, vision problems",Hematology
+Thrombocytopenia,"Easy bruising, bleeding gums, petechiae",Hematology
+Breast Cancer,"Lump in breast, skin changes, nipple discharge",Oncology
+Lung Cancer,"Persistent cough, chest pain, weight loss",Oncology
+Lymphoma,"Swollen lymph nodes, fatigue, night sweats",Oncology
+Prostate Cancer,"Urinary issues, blood in semen, pelvic pain",Oncology
+Colorectal Cancer,"Blood in stool, abdominal pain, weight loss",Oncology
+Chronic Kidney Disease,"Swelling, fatigue, changes in urination",Nephrology
+Kidney Stones,"Severe flank pain, blood in urine, nausea",Nephrology
+Glomerulonephritis,"Blood/protein in urine, swelling, hypertension",Nephrology
+Polycystic Kidney Disease,"High blood pressure, back pain, headaches",Nephrology
+Urinary Tract Infection (UTI),"Painful urination, frequent urges, cloudy urine",Urologist
+Benign Prostatic Hyperplasia,"Difficulty urinating, weak stream, bladder issues",Urologist
+Erectile Dysfunction,"Difficulty maintaining erection, reduced libido",Urologist
+Interstitial Cystitis,"Pelvic pain, frequent urination, discomfort",Urologist
+Osteoporosis,"Bone fractures, back pain, loss of height",Orthopedic Surgeon
+Fracture,"Severe pain, swelling, deformity",Orthopedic Surgeon
+Scoliosis,"Uneven shoulders, back pain, spinal curvature",Orthopedic Surgeon
+Carpal Tunnel Syndrome,"Hand numbness, tingling, weakness",Orthopedic Surgeon
+Glaucoma,"Vision loss, eye pain, halos around lights",Ophthalmologist
+Cataracts,"Blurred vision, difficulty seeing at night",Ophthalmologist
+Conjunctivitis,"Red eyes, itching, discharge",Ophthalmologist
+Macular Degeneration,"Central vision loss, distorted lines",Ophthalmologist
+Sinusitis,"Facial pain, nasal congestion, thick mucus",ENT Specialist
+Otitis Media,"Ear pain, hearing loss, fever",ENT Specialist
+Tonsillitis,"Sore throat, swollen tonsils, difficulty swallowing",ENT Specialist
+Laryngitis,"Hoarseness, sore throat, dry cough",ENT Specialist
+HIV/AIDS,"Fever, weight loss, recurrent infections",Infectious Disease Specialist
+Malaria,"High fever, chills, sweating",Infectious Disease Specialist
+Dengue,"Severe headache, joint pain, rash",Infectious Disease Specialist
+Lyme Disease,"Bullseye rash, fever, joint pain",Infectious Disease Specialist
+COVID-19,"Fever, cough, loss of taste/smell",Infectious Disease Specialist
+Depression,"Persistent sadness, loss of interest, fatigue",Psychiatrist
+Anxiety,"Excessive worry, restlessness, rapid heartbeat",Psychiatrist
+Bipolar Disorder,"Mood swings, hyperactivity, depressive episodes",Psychiatrist
+Schizophrenia,"Hallucinations, delusions, disorganized speech",Psychiatrist
+OCD,"Obsessive thoughts, repetitive behaviors",Psychiatrist
+Allergic Rhinitis,"Sneezing, runny nose, itchy eyes",Allergist/Immunologist
+Asthma (Allergic),"Wheezing, shortness of breath, coughing",Allergist/Immunologist
+Anaphylaxis,"Swelling, difficulty breathing, rapid pulse",Allergist/Immunologist
+Food Allergy,"Hives, swelling, digestive issues",Allergist/Immunologist
+Chickenpox,"Itchy rash, fever, fatigue",Pediatrician
+Measles,"High fever, cough, rash",Pediatrician
+ADHD,"Inattention, hyperactivity, impulsivity",Pediatrician
+Autism Spectrum Disorder,"Social challenges, repetitive behaviors",Pediatrician
+Cerebral Palsy,"Motor skill issues, muscle stiffness",Pediatrician
+Dementia,"Memory loss, confusion, disorientation",Geriatrician
+Osteoarthritis (Geriatric),"Joint pain, stiffness, reduced mobility",Geriatrician
+Endometriosis,"Pelvic pain, painful periods, infertility",Gynecologist
+PCOS,"Irregular periods, weight gain, acne",Gynecologist
+Cervical Cancer,"Abnormal bleeding, pelvic pain, discharge",Gynecologist
+Fibroids,"Heavy periods, pelvic pressure, frequent urination",Gynecologist
+Endometrial Cancer,"Postmenopausal bleeding, pelvic pain",Gynecologist
+Osteosarcoma,"Bone pain, swelling, fractures",Oncology
+Pancreatic Cancer,"Jaundice, abdominal pain, weight loss",Oncology
+Leukemia (Pediatric),"Fatigue, pale skin, frequent infections",Pediatric Oncology
+Hodgkin? Lymphoma,"Swollen lymph nodes, fever, night sweats",Oncology
+Non-Hodgkin? Lymphoma,"Swollen lymph nodes, fatigue, weight loss",Oncology
+Melanoma (Advanced),"Skin lesions, weight loss, fatigue",Oncology
+Ovarian Cancer,"Bloating, pelvic pain, appetite loss",Gynecologic Oncology
+Testicular Cancer,"Testicular lump, pain, heaviness",Urologic Oncology
+Bladder Cancer,"Blood in urine, painful urination",Urologic Oncology
+Thyroid Cancer,"Neck lump, hoarseness, difficulty swallowing",Endocrinology/Oncology
+Lyme Disease (Chronic),"Fatigue, joint pain, neurological issues",Infectious Disease Specialist
+Cholera,"Severe diarrhea, dehydration, vomiting",Infectious Disease Specialist
+Typhoid,"High fever, stomach pain, rose-colored spots",Infectious Disease Specialist
+Herpes Simplex,"Blisters, itching, flu-like symptoms",Infectious Disease Specialist
+Zika Virus,"Mild fever, rash, joint pain",Infectious Disease Specialist
+Blood Pressure (High),"Headaches, Chest pain, Shortness of breath, Vision changes, Dizziness, Fatigue, Nosebleeds, Palpitations",
