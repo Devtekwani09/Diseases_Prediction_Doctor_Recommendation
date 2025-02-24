@@ -5,7 +5,18 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
 # Load dataset
-df = pd.read_csv(r"C:\Users\Neeraj\Desktop\final yr project\FastAPi\disease_specialist_data.csv", encoding='ISO-8859-1')
+# df = pd.read_csv(r"C:\Users\Neeraj\Desktop\final yr project\FastAPi\disease_specialist_data.csv", encoding='ISO-8859-1')
+import os
+
+# Get the current directory of the app
+base_dir = os.path.dirname(os.path.abspath(__file__))
+
+# Relative path to the CSV file in the same folder as app.py
+csv_file_path = os.path.join(base_dir, 'disease_specialist_data.csv')
+
+# Load the CSV file
+df = pd.read_csv(csv_file_path, encoding='ISO-8859-1')
+
 
 # Train vectorizer
 vectorizer = TfidfVectorizer()
