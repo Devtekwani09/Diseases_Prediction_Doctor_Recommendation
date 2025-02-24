@@ -131,7 +131,7 @@ const SymptomForm = () => {
   
     try {
       // 1st API Call: Predict disease and specialist
-      const response = await axios.post("http://localhost:8000/predict", {
+      const response = await axios.post("https://diseases-prediction-doctor-rb8g.onrender.com/predict", {
         symptoms: selectedSymptoms.map((s) => s.value),
       });
   
