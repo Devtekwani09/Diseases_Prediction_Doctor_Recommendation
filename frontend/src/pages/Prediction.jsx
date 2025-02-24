@@ -143,7 +143,7 @@ const SymptomForm = () => {
   
       // 2nd API Call: Fetch specialist details
       const specialistResponse = await axios.get(
-        `http://localhost:5000/api/v1/doctors/doctorbyspeciality/${specialistName}`
+        `https://diseases-prediction-doctor-recommendation.onrender.com/api/v1/doctors/doctorbyspeciality/${specialistName}`
       );
   
       console.log("Raw Specialist Response:", specialistResponse.data);
