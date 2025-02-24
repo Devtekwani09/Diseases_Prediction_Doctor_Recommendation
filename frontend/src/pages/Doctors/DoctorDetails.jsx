@@ -30,7 +30,8 @@ const DoctorDetails = () => {
 
   const fetchDoctorDetails = async () => {
     try {
-      const response = await axios.get(`http://localhost:5000/api/v1/doctors/${id}`);
+      // const response = await axios.get(`http://localhost:5000/api/v1/doctors/${id}`);
+      const response = await axios.get(`https://diseases-prediction-doctor-recommendation.onrender.com/api/v1/doctors/${id}`);
       setDoctor(response.data.data);
       setLoading(false);
     } catch (err) {
